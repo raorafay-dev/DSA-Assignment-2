@@ -1,0 +1,2 @@
+# DSA-Assignment-2
+Given an expression of binary operators as input in the character array, you are required to design a solution in c++ for converting that expression in prefix, postfix and then evaluating that expression. Also you will check its validity (correct use of brackets and operators). The intend is for the given input expression in character array 1. Check validity of the expression 2. Convert to Prefix expression 3. Convert to Postfix expression 4. Evaluate the given expression
